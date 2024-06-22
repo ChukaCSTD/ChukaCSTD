@@ -15,15 +15,20 @@
 💻 I am well-versed in the following programming languages:
 
 - **Python**
-- **C++**
 - **Embedded C**
 - **C**
 - **Java**
-- **HTML**
+- **HTML & CSS**
 - **PHP**
-- **CSS**
 - **JavaScript**
 - **jQuery**
+
+  - Beginning-
+- **React native**
+- **Napkin**
+- **Firebase**
+- **Figma**
+- **Baserow**
 
 🌱 I’m currently learning to become a Fullstack Developer and also delving into Mobile App Development as I progress in my journey.
 
