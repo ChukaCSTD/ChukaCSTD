@@ -22,10 +22,14 @@
 - **PHP**
 - **JavaScript**
 - **jQuery**
+- **React.js**
+- **next.js**
+- **MongoDB**
 
   - Beginning-
 - **React native**
 - **Napkin**
+- **AWS**
 - **Firebase**
 - **Figma**
 - **Baserow**
