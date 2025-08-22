@@ -5,7 +5,8 @@
 👀 My interests are diverse and span across various fields including:
 
 - **Programming**
-- **Design and Animation**
+- **Graphic Design and Illustrations**
+- **Motion Graphics and Animation**
 - **UI/UX**
 - **Data Analysis/Science**
 - **Machine Learning and Artificial Intelligence**
@@ -15,18 +16,15 @@
 💻 I am well-versed in the following programming languages:
 
 - **Python**
-- **Embedded C**
 - **C**
 - **Java**
 - **HTML & CSS**
 - **PHP**
 - **JavaScript**
 - **jQuery**
-- **React.js**
-- **next.js**
-- **MongoDB**
-
-  - Beginning-
+- **React.js framework**
+- **next.js framework**
+- **MongoDB server**
 - **React native**
 - **Napkin**
 - **AWS**
@@ -34,7 +32,7 @@
 - **Figma**
 - **Baserow**
 
-🌱 I’m currently learning to become a Fullstack Developer and also delving into Mobile App Development as I progress in my journey.
+🌱 A Fullstack Developer for Mobile & Web App Development.
 
 🤝 I’m looking to collaborate on exciting projects in any of my areas of interest, particularly those that push the boundaries of technology and creativity.
 
