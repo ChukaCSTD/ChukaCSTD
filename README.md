@@ -1,10 +1,10 @@
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=36BCF7&center=true&vCenter=true&lines=Hi+there+👋,+I'm+Chuka!;Systems+Engineer+%7C+Fullstack+Developer;Creative+Technologist+%7C+AI+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I'm+Chuka!;Systems+Engineer+|+Fullstack+Developer;Creative+Technologist+|+AI+Enthusiast)](https://git.io/typing-svg)
 
 ---
 
 ### 🚀 About Me  
-👨‍💻 **Systems Engineer** with a strong background in **Software Engineering**,  
+👨‍💻 **Systems IntegrationEngineer** with a strong background in **Software Engineering**,  
 specializing in **Satellite & Drone Systems Development** and **Fullstack Web/Mobile Apps**.  
 
 I blend **technology** + **creativity** across:  
