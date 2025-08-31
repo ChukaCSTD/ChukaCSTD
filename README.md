@@ -1,5 +1,5 @@
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+there+👋,+Chuka+Here!;Systems+Engineer+|+Fullstack+Developer;A+Creative+Technologist+|+AI+Enthusiast;Multimedia+Graphics+Designer+and+Illustrator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I'm+Chuka!;Systems+Engineer+|+Fullstack+Developer;Creative+Technologist+|+AI+Enthusiast)](https://git.io/typing-svg)
 
 ---
 
@@ -65,17 +65,22 @@ I’m open to projects that **push boundaries** in **tech, design, and AI innova
 
 ---
 
-### 📊 GitHub Stats  
-![Chuka's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChukaCSTD&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChukaCSTD&layout=compact&theme=radical)  
+## 📊 GitHub Profile Dashboard  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChukaCSTD&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChukaCSTD&theme=radical" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChukaCSTD&layout=compact&theme=radical" height="165" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ChukaCSTD&theme=radical&margin-w=15&margin-h=15&no-bg=true&no-frame=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ChukaCSTD&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
 
 ---
 
 ✨ *“Let’s create something amazing together!”*  
-
-
-
-<!---
-ChukaCSTD/ChukaCSTD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
