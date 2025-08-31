@@ -8,10 +8,10 @@
 
 ### 🚀 About Me  
 👨‍💻 **Senior Satellite Systems Integration Engineer** with a strong background in **Software Engineering**,  
-specializing in **Satellite & Drone Systems Development** and **Fullstack Web/Mobile Apps**.  
+specialized in developing **Satellite & Drone (UAV & UGV) Systems** and **Fullstack Web/Mobile Apps**.  
 
 I blend **technology** + **creativity** across:  
-🎨 **Design & Animation** | 🤖 **AI & Robotics** | 📊 **Data & Machine Learning**  
+🎨 **Design & Animation** | 🤖 **Satellite Development & Robotics** | 📊 **AI & Machine Learning**  
 
 ---
 
@@ -85,7 +85,7 @@ I’m open to projects that **push boundaries** in **tech, design, and AI innova
 </p>
 
 <!-- Footer Wave Divider (optional) -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:8A2BE2,100:36BCF7)
+![Footer](https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:8A2BE2,100:36BCF7)
 
 ---
 
