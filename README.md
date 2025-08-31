@@ -1,5 +1,8 @@
+<!-- Animated Wave Banner -->
+![Header](https://capsule-render.vercel.app/api?type=waving&height=220&text=Chuka%20Ozoadibe&fontAlign=50&fontAlignY=40&fontSize=48&color=0:36BCF7,100:8A2BE2&animation=fadeIn&fontColor=ffffff&desc=Systems%20Engineer%20•%20Fullstack%20Developer%20•%20Creative%20Technologist&descAlign=50&descAlignY=70)
+
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I'm+Chuka!;Systems+Engineer+|+Fullstack+Developer;Creative+Technologist+|+AI+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?size=26&duration=4000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I'm+Chuka!;Systems+Engineer+|+Fullstack+Developer;Creative+Technologist+|+AI+Enthusiast)](https://git.io/typing-svg)
 
 ---
 
@@ -81,6 +84,9 @@ I’m open to projects that **push boundaries** in **tech, design, and AI innova
   <img src="https://komarev.com/ghpvc/?username=ChukaCSTD&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
+<!-- Footer Wave Divider (optional) -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:8A2BE2,100:36BCF7)
+
 ---
 
-✨ *“Let’s create something amazing together!”*  
+✨ *“Let’s create something amazing together!”*
