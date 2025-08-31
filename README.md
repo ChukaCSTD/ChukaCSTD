@@ -73,10 +73,13 @@ I’m open to projects that **push boundaries** in **tech, design, and AI innova
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ChukaCSTD&show_icons=true&theme=radical" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChukaCSTD&theme=radical" height="165" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChukaCSTD&layout=compact&theme=radical" height="165" />
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChukaCSTD&layout=compact&theme=radical" height="165" />
+  
   <img src="https://github-profile-trophy.vercel.app/?username=ChukaCSTD&theme=radical&margin-w=15&margin-h=15&no-bg=true&no-frame=true" height="165" />
 </p>
 
