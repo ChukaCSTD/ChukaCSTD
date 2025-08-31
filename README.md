@@ -1,5 +1,5 @@
 <!-- Animated Wave Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&height=220&text=Chuka%20Ozoadibe&fontAlign=50&fontAlignY=40&fontSize=48&color=0:36BCF7,100:8A2BE2&animation=fadeIn&fontColor=ffffff&desc=Systems%20Engineer%20•%20Fullstack%20Developer%20•%20Creative%20Technologist&descAlign=50&descAlignY=70)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=220&text=Chuka%20Ozoadibe&fontAlign=50&fontAlignY=40&fontSize=48&color=0:36BCF7,100:8A2BE2&animation=fadeIn&fontColor=ffffff&desc=Systems%20Engineer%20•%20Fullstack%20Developer%20•%20Creative%20Technologist&descAlign=50&descAlignY=50)
 
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?size=26&duration=4000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I'm+Chuka!;Systems+Engineer+|+Fullstack+Developer;Creative+Technologist+|+AI+Enthusiast)](https://git.io/typing-svg)
@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 About Me  
-👨‍💻 **Systems Engineer** with a strong background in **Software Engineering**,  
+👨‍💻 **Senior Satellite Systems Integration Engineer** with a strong background in **Software Engineering**,  
 specializing in **Satellite & Drone Systems Development** and **Fullstack Web/Mobile Apps**.  
 
 I blend **technology** + **creativity** across:  
@@ -21,7 +21,7 @@ I blend **technology** + **creativity** across:
 - 🎬 Motion Graphics & Animation  
 - 🖥️ UI/UX Design  
 - 📊 Data Analysis / Data Science  
-- 🤖 Machine Learning / Artificial Intelligence  
+- 🤖 Machine Learning / Artificial Intelligence 
 - 🔧 Robotics & System Integration  
 - 🎮 Gaming (playing + creating)  
 
