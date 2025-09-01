@@ -2,13 +2,14 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=220&text=Chuka%20Ozoadibe&fontAlign=50&fontAlignY=40&fontSize=48&color=0:36BCF7,100:8A2BE2&animation=fadeIn&fontColor=ffffff&desc=Systems%20Engineer%20•%20Fullstack%20Developer%20•%20Creative%20Technologist&descAlign=50&descAlignY=60)
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?size=26&duration=4000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I'm+Chuka!;Systems+Engineer+|+Fullstack+Developer;Creative+Technologist+|+AI+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?size=26&duration=4000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I'm+Chuka!;🚀+Engineer+of+Systems+and+Ideas;💡+Turning+Concepts+into+Code;🛰️+Satellite+Tech+Meets+Software;🎨+Designing+with+Logic+%2B+Creativity;🤖+AI+Dreamer+%7C+Builder+of+Tomorrow)](https://git.io/typing-svg)
+
 
 ---
 
 ### 🚀 About Me  
 👨‍💻 **Senior Satellite Systems Integration Engineer** with a strong background in **Software Engineering**,  
-specialized in developing **Satellite & Drone (UAV & UGV) Systems** and **Fullstack Web/Mobile Apps**.  
+specializing in developing **Satellite & Drone (UAV & UGV) Systems** and **Fullstack Web/Mobile Apps**.  
 
 I blend **technology** + **creativity** across:  
 🎨 **Design & Animation** | 🤖 **Satellite Development & Robotics** | 📊 **AI & Machine Learning**  
@@ -73,13 +74,10 @@ I’m open to projects that **push boundaries** in **tech, design, and AI innova
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ChukaCSTD&show_icons=true&theme=radical" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChukaCSTD&theme=radical" height="165" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChukaCSTD&layout=compact&theme=radical" height="165" />
-
 </p>
 
 <p align="center">
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChukaCSTD&layout=compact&theme=radical" height="165" />
   <img src="https://github-profile-trophy.vercel.app/?username=ChukaCSTD&theme=radical&margin-w=15&margin-h=15&no-bg=true&no-frame=true" height="165" />
 </p>
 
