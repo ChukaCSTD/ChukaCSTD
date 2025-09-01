@@ -2,7 +2,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=220&text=Chuka%20Ozoadibe&fontAlign=50&fontAlignY=40&fontSize=48&color=0:36BCF7,100:8A2BE2&animation=fadeIn&fontColor=ffffff&desc=Systems%20Engineer%20•%20Fullstack%20Developer%20•%20Creative%20Technologist&descAlign=50&descAlignY=60)
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?size=26&duration=4000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I'm+Chuka!;Turning+Concepts+into+Code;🛰️+Where+Satellite+Tech+Meets+Software;🤖+AI+Enthusiast+%7C+Builder+of+Tomorrow,+Today!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?size=26&duration=4000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I'm+Chuka!;Here,+is+where+I'm+turning+Concepts+into+Code;🛰️+Where+Satellite+Tech+Meets+Software;🤖+AI+Enthusiast+%7C+Builder+of+Tomorrow,+Today!)](https://git.io/typing-svg)
 
 
 ---
